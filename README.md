@@ -12,4 +12,4 @@ Run this acronym generator locally with no data leaving your device. To use, pip
 Uses a dictionary data structure in python that contains acronym + frequency pairs to hold acronym list. Uses the PyMuPDF library to extract each page in a pdf into a string of words. The words in each string of words are then evaluated as an acronym if it contains atleast 2 uppercase characters.
 
 ### Future Upgrades:
-Implement AI locally to fill in a new definitions column, allow input word documents.
+Implement AI locally to fill in a new definitions column, allow word document inputs.
