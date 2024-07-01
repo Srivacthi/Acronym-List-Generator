@@ -70,7 +70,6 @@ for page in pdf:
     # print text string
     AcronymFinder.findAcronyms(text)
     
-
 # sort and print dictionary by key
 print("Acronym List \t\t\t\t\t\t| Count")
 print("--------------------------------------------")
