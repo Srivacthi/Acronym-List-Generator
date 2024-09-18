@@ -61,7 +61,7 @@ class AcronymFinder:
         return cls.mylist
 
 # open a pdf document (edit your pdf name)
-pdf = pymupdf.open("Your PDF Name.pdf")
+pdf = pymupdf.open("enigma.pdf")
 
 # iterate through each page in pdf
 for page in pdf:
