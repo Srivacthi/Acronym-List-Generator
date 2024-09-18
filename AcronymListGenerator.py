@@ -59,6 +59,9 @@ class AcronymFinder:
 
         """
         return cls.mylist
+        
+# welcome message
+print("Welcome to the acronym dictionary generator where you can generate all your acronyms in any size of text within seconds!")
 
 # open a pdf document (edit your pdf name)
 pdf = pymupdf.open("enigma.pdf")
